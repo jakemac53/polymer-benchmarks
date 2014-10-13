@@ -1,0 +1,8 @@
+name: polymer_benchmarks
+description: Benchmarks for the polymer package.
+dependencies:
+    benchmark_harness: ">=1.0.4 <1.1.0"
+    polymer: ">=0.15.0 <0.16.0"
+transformers:
+- polymer:
+    entry_points:
